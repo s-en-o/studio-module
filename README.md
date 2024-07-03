@@ -10,7 +10,7 @@ Official module of [Nuxt Studio](https://nuxt.studio).
 
 Edit your websites made with [Nuxt Content](https://content.nuxt.com/), in production on any device.
 
-📖&nbsp; Official [Documentation](https://nuxt.studio/docs/projects/setup#requirements-to-use-the-studio-editor)
+📖&nbsp; Official [Documentation](https://nuxt.studio/docs/projects/setup)
 
 ## Features
 
@@ -38,7 +38,7 @@ export default defineNuxtConfig({
 
 ## Configuration
 
-Check out our setup [requirements](https://nuxt.studio/docs/projects/setup#requirements-to-use-the-studio-editor). 
+Check out our setup [requirements](https://nuxt.studio/docs/get-started/setup#create-your-project). 
 
 By default the Studio API is `https://api.nuxt.studio`. If you want to customise it, you can set the `STUDIO_API` environement variable.
 
